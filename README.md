@@ -12,3 +12,10 @@ P3D/FSX has SimConnect/FSUIPC that can log jobs (i.e. FSE).
 - Study API
 - Get fuel/payload/takeoff/landing
 - Insertion of data?
+
+
+
+
+Phase I:
+1. Data Entry form via C# Application, with connection to a SQL Database.
+2. Read these entries via the client.
