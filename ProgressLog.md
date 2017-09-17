@@ -8,14 +8,13 @@
 - Sql query for cities and cargo has been moved ot a separate SqlTools.cs class.
 - Created Job Class
 - Job submission works!
+- Salted and hashed passwords
+- Persistent login
+
 
 WIP:
 
 - User system
- - DONE!
- - TIMESTAMPED!
- - started login saving
- -Login
  -User DB
  
 
