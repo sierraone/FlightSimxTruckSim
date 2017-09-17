@@ -10,14 +10,15 @@
 - Job submission works!
 - Salted and hashed passwords
 - Persistent login
-
+- Profile Page
 
 WIP:
-
+- Logout Button
 - Dashboard Page
 - Current Active Job
 - check duplicate when creating users
 - update users???
 - change password
+- Profile Pictures
 
 
