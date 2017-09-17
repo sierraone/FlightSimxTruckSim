@@ -14,8 +14,8 @@
 
 WIP:
 
-- User system
- -User DB
+- Dashboard Page
+- Current Active Job
  
 
 
