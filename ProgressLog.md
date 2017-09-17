@@ -11,14 +11,20 @@
 - Salted and hashed passwords
 - Persistent login
 - Profile Page
+- Refresh Button
+- Update User object
+- Logout Button
+- Duplicate Job Checking
+- Loading Active Jobs
+- Cancelling Active Jobs
 
 WIP:
-- Logout Button
-- Dashboard Page
-- Current Active Job
+
+- Browse Jobs
+
 - check duplicate when creating users
-- update users???
 - change password
 - Profile Pictures
-
-
+- Multiple Jobs
+- Logging distance and weight for profile stats
+- Why does SQLTools have a constructor???
