@@ -9,5 +9,15 @@
 - Created Job Class
 - Job submission works!
 
+WIP:
+
+- User system
+ - DONE!
+ - TIMESTAMPED!
+ - started login saving
+ -Login
+ -User DB
+ 
+
 
 
