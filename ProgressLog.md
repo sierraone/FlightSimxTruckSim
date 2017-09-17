@@ -28,3 +28,7 @@ WIP:
 - Multiple Jobs
 - Logging distance and weight for profile stats
 - Why does SQLTools have a constructor???
+- Job Submission Fixes (generate new destination, no owner!)
+
+-Job injection ATS
+
