@@ -3,7 +3,7 @@
 - Created basic job input screen
 - Retrieved cargo + cities from MySQL
 - Error handling on input in form
--TabControl installed
+- TabControl installed
 
-Bugs:
-1. Error Labels not showing.
+
+
