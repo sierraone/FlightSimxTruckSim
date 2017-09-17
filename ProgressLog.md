@@ -18,5 +18,6 @@ WIP:
 - Current Active Job
 - check duplicate when creating users
 - update users???
+- change password
 
 
