@@ -39,3 +39,6 @@ Login System:
 - Job injection started: need to figure out what breaks save file, surgical vs recreate file.
 Job Generation -> Either Truck/Plane in series ->Completion
 
+Job clearing kinda works, but breaks game files.
+
+Also, distance calculation???
