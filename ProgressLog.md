@@ -42,3 +42,6 @@ Job Generation -> Either Truck/Plane in series ->Completion
 Job clearing kinda works, but breaks game files.
 
 Also, distance calculation???
+
+
+Wrong job count for some companies (says 3) but actually 2 causes crash
