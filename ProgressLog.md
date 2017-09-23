@@ -21,12 +21,14 @@ Job Injection
 - Companies List
 - Companies on Jobs
 - Clearing Jobs works
+- Job Injection - DONE MOTHERFUCKERS!
+
 WIP:
 
 Job Input Screen
 1. Autologger
-2. Submit jobs needs to be actually a job submission, new jobs are injected via a separate page.
-4. Job injection
+2. Submit jobs needs to be actually a job submission, new jobs are injected via a separate page. WIP
+
 Login System:
 1. User creation
 2. Password editing
