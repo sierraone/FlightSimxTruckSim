@@ -44,6 +44,6 @@ Job Generation -> Either Truck/Plane in series ->Completion
 
 
 
-Also, distance calculation???
-
+Also, distance calculation - Bruteforce data mining?
 1. Build database of distances between cities (for price calculation)
+2. SQL Table optimizations?
